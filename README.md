@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SpencerZPoole
 - 👀 I’m interested in ... Software Engineering, Machine Learning, Emulation, Audio Engineering, and Video Game Development
 - 🌱 I’m currently learning ... Ubuntu/Linux, Github
-- 💞️ I’m looking to collaborate on ... Console Emulation Stabilization, Dungeons and Dragons 3.5e Dataset generation
+- 💞️ I’m looking to collaborate on ... console emulation stabilization, Dungeons and Dragons 3.5e dataset generation
 - 📫 How to reach me ... spencer.zachary.poole@gmail.com or my nerd-community discord [Poole's Tavern](https://discord.gg/W5zSjDSb)
 
 <!---
