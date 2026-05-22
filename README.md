@@ -53,3 +53,7 @@ Curated project and case-study portfolio covering software projects, game/moddin
 - Email: [spencer.zachary.poole@gmail.com](mailto:spencer.zachary.poole@gmail.com)
 - LinkedIn: [linkedin.com/in/spencer-poole](https://www.linkedin.com/in/spencer-poole)
 - Portfolio: [Spencer Poole Technical Portfolio](https://github.com/SpencerZPoole/Spencer-Poole-Technical-Portfolio)
+
+## Support
+
+Some of my public releases include optional support links for users who find the tools useful: [paypal.me/mrpooley92](https://paypal.me/mrpooley92).
