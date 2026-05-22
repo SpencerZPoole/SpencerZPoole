@@ -54,6 +54,8 @@ Curated project and case-study portfolio covering software projects, game/moddin
 - LinkedIn: [linkedin.com/in/spencer-poole](https://www.linkedin.com/in/spencer-poole)
 - Portfolio: [Spencer Poole Technical Portfolio](https://github.com/SpencerZPoole/Spencer-Poole-Technical-Portfolio)
 
-## Support
+## Donate
 
-Some of my public releases include optional support links for users who find the tools useful: [paypal.me/mrpooley92](https://paypal.me/mrpooley92).
+If my public releases have helped you, you can donate through [GitHub Sponsors](https://github.com/sponsors/SpencerZPoole) or [PayPal](https://paypal.me/mrpooley92). GitHub Sponsors is best for recurring sponsorships; PayPal works well for one-time donations.
+
+Donations are appreciated but never required to use my public projects.
