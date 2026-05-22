@@ -56,6 +56,9 @@ Curated project and case-study portfolio covering software projects, game/moddin
 
 ## Donate
 
-If my public releases have helped you, you can donate through [GitHub Sponsors](https://github.com/sponsors/SpencerZPoole) or [PayPal](https://paypal.me/mrpooley92). GitHub Sponsors is best for recurring sponsorships; PayPal works well for one-time donations.
+If my public releases helped you, donations are welcome. GitHub Sponsors is best for recurring sponsorships; PayPal works well for one-time donations.
+
+[![Sponsor on GitHub](https://img.shields.io/badge/GitHub%20Sponsors-Donate-ea4aaa?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/SpencerZPoole)
+[![Donate with PayPal](https://img.shields.io/badge/PayPal-One--time%20donation-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/mrpooley92)
 
 Donations are appreciated but never required to use my public projects.
