@@ -1,42 +1,54 @@
 # Spencer Poole
 
-Software-focused systems builder working across C#, JavaScript/TypeScript, Lua, C++, Python, Unity, Foundry VTT, game/modding tools, local automation, debugging, documentation, and validation.
+Systems-minded technical problem solver with a Computer Science background, professional Tier 1-3 support experience, and shipped public tools across GitHub, CurseForge, Nexus Mods, and Foundry VTT. I work across C#, JavaScript/TypeScript, Lua, C++, Python, Unity, game/modding tools, local automation, debugging, documentation, release packaging, and validation.
 
-I like projects where code meets real runtime behavior: platform APIs, persistence, compatibility layers, local tooling, release packaging, and user-facing workflows that need to be understandable after the code is written. My professional endpoint/support background gives me practical systems judgment around troubleshooting, logs, reproduction steps, clear handoffs, and tools that have to work for real users.
+The through-line in my work is supportable software: understand the existing system, reproduce the failure, make the smallest safe fix, document the path, and validate enough that someone else can install, review, or maintain it.
+
+## Public Evidence
+
+- [Technical portfolio](https://github.com/SpencerZPoole/Spencer-Poole-Technical-Portfolio): curated project and case-study map.
+- [TreenAH on CurseForge](https://www.curseforge.com/wow/addons/treenah): WoW Auction House addon with local price history, tooltip pricing, scans, and slash-command price checks.
+- [Vive Wand Compatibility Patch on Nexus Mods](https://www.nexusmods.com/fallout4/mods/104251): Fallout 4 VR support package for HTC Vive Wand users in Gingas' Fallout VR Essentials.
+- Foundry package pages: [D35E Scent Sense](https://foundryvtt.com/packages/d35e-scent-sense) and [D35E Piecemeal Armor And Called Shots](https://foundryvtt.com/packages/d35e-piecemeal-armor-called-shots).
+- Accepted upstream Foundry maintenance PRs: [AFK Ready Check #2](https://github.com/jeremiahverba/afk-ready-check/pull/2), [AFK Ready Check #3](https://github.com/jeremiahverba/afk-ready-check/pull/3), [Quick Status Select #27](https://github.com/jeremiahverba/qss/pull/27), and [Popout Resizer #23](https://github.com/Cardagon/popout-resizer/pull/23).
 
 ## What I Build
 
-- Local-first tools and automation for real workflows, with safety gates and clear validation paths.
-- Foundry VTT modules and bridge tooling for tabletop systems, live-world inspection, and GM-facing workflows.
 - Game and modding tools that sit close to platform APIs, runtime behavior, input systems, and player-facing usability.
+- Foundry VTT modules, compatibility fixes, and bridge tooling for tabletop systems, live-world inspection, and GM-facing workflows.
+- Local-first tools and automation for real workflows, with safety gates and clear validation paths.
 - Unity/C# systems prototypes involving gameplay loops, runtime state, UI presentation, and data-driven architecture.
 - Technical documentation, release notes, checklists, and public/private boundaries that make projects easier to inspect and maintain.
 
 ## Featured Projects
 
-### [D35E Scent Sense](https://github.com/SpencerZPoole/d35e-scent-sense)
+### [Technical Portfolio](https://github.com/SpencerZPoole/Spencer-Poole-Technical-Portfolio)
 
-Foundry VTT module for D35E Scent support, including detection-state helpers, odor profiles, GM-facing context tools, scene trails, API helpers, release documentation, and validation tooling.
-
-### [Codex Foundry Bridge](https://github.com/SpencerZPoole/codex-foundry-bridge)
-
-Local-first MCP bridge for safely operating trusted Foundry VTT GM sessions from Codex. It focuses on useful live-world capability with localhost transport, token auth, GM authorization, preview/apply plans, redaction, and backup-first destructive operations.
-
-### [AFK Ready Check](https://github.com/SpencerZPoole/afk-ready-check)
-
-Foundry VTT V14-ready ready-check module with chat commands, socket handling, player-list badges, ApplicationV2 UI, packaging scripts, screenshots, and validation notes.
-
-### [TreenAH](https://github.com/SpencerZPoole/TreenAH)
-
-Lua World of Warcraft Auction House addon for scan workflows, local market history, tooltip pricing, tracked lists, slash commands, and SavedVariables-backed data modeling.
+Curated case-study portfolio covering shipped tools, game/modding projects, endpoint workflow thinking, QA habits, documentation, and supportable technical work.
 
 ### [Vive Wand Compatibility Patch](https://github.com/SpencerZPoole/Vive-Wand-Compatibility-Patch)
 
 Fallout 4 VR compatibility patch and support package for HTC Vive Wand users in Gingas' Fallout VR Essentials, with focused release notes, controller-behavior troubleshooting, validation guidance, and collaborator credit preserved.
 
-### [Technical Portfolio](https://github.com/SpencerZPoole/Spencer-Poole-Technical-Portfolio)
+### [TreenAH](https://github.com/SpencerZPoole/TreenAH)
 
-Curated project and case-study portfolio covering software projects, game/modding tools, endpoint workflow thinking, QA habits, documentation, and supportable technical work.
+Lua World of Warcraft Auction House addon for scan workflows, local market history, tooltip pricing, tracked lists, slash commands, and SavedVariables-backed data modeling.
+
+### [D35E Scent Sense](https://github.com/SpencerZPoole/d35e-scent-sense)
+
+Foundry VTT module for D35E Scent support, including detection-state helpers, odor profiles, GM-facing context tools, scene trails, API helpers, release documentation, and validation tooling.
+
+### [D35E Piecemeal Armor And Called Shots](https://github.com/SpencerZPoole/d35e-piecemeal-armor-called-shots)
+
+Foundry VTT module for D35E piecemeal armor and called-shot workflows, including attack-dialog integration, configurable profiles, GM outcome cards, screenshots, user docs, and GitHub release packaging.
+
+### [Foundry V14 Compatibility Contributions](https://github.com/SpencerZPoole/Spencer-Poole-Technical-Portfolio/blob/main/projects/foundry-v14-compatibility.md)
+
+Accepted upstream maintenance PRs for Foundry V14 compatibility and install-flow fixes across existing modules, including AFK Ready Check, Quick Status Select, and Popout Resizer.
+
+### [Codex Foundry Bridge](https://github.com/SpencerZPoole/codex-foundry-bridge)
+
+Local-first MCP bridge for safely operating trusted Foundry VTT GM sessions from Codex. It focuses on useful live-world capability with localhost transport, token auth, GM authorization, preview/apply plans, redaction, and backup-first destructive operations.
 
 ## Core Skills
 
